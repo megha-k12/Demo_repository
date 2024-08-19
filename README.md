@@ -1,2 +1,3 @@
 # Demo_repository
-demo repository
+demo repository!
+Learning git and git lab
